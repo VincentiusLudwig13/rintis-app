@@ -7,7 +7,8 @@
 ![Platform](https://img.shields.io/badge/platform-Mobile%20First-brightgreen.svg)
 
 ---
-
+https://www.canva.com/design/DAG612zd3TQ/UNno-nfEK0mNmr0eWOqlCQ/ | link PPT
+---
 ## 📱 What is Rintis?
 
 **Rintis** is a revolutionary mobile-first web application designed to help entrepreneurs and business owners navigate their journey with confidence. Whether you're a complete beginner wondering "what business should I start?" or an established business owner managing finances, Rintis provides intelligent AI-powered guidance every step of the way.
