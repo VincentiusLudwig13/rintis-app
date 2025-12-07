@@ -1,4 +1,4 @@
-# 🚀 RINTIS -> www.rintis.cloud
+# 🚀 RINTIS -> rintis.cloud
 
 > **Your Smart Business Companion** - From Dreams to Reality with AI-Powered Insights
 
