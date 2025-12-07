@@ -57,13 +57,11 @@
 - **Tailwind CSS** - Utility-first CSS framework
 
 ### Backend Architecture
-- **Next.js API Routes** - Serverless backend
+- **Springboot 3** - A powerfull backend framework with java
 - **Clean Architecture** - Separation of concerns with layered architecture
-- **Context API** - State management
-- **Local Storage** - Client-side data persistence
 
 ### AI Integration
-- **Gemini AI** - Intelligent business recommendations and insights
+- **Kimmi K2** - Intelligent business recommendations and insights
 - **LLM-Powered Features** - Natural language processing for better user experience
 
 ---
@@ -152,45 +150,23 @@ npm start
 |--------------------|-----------------------------------|--------|
 | **Ma Dang Yu**     | Frontend Developer                | [@Arroziqi](https://github.com/Arroziqi) |
 | **Nam do Ngo**     | Frontend Developer & Ui/UX Designer | [@zeronyms](https://github.com/zeronyms) |
-| **Liem Swie King** | Backend Developer                 | - |
+| **Liem Swie King** | Backend Developer                 | [@VincentiusLudwig13](https://github.com/VincentiusLudwig13) |
 
 ---
 
-## 📖 Core Workflows
+## 📖 Core Things
 
 ### 1️⃣ Business Discovery (Mulai)
 Users answer targeted questions about their capital, interests, skills, and location. Our AI engine processes this information and recommends suitable business opportunities with detailed profiles and startup strategies.
 
 ### 2️⃣ Business Management (Kelola)
-Track all financial transactions, categorize income and expenses, and gain insights into business performance through interactive dashboards and charts.
+Track all financial transactions, categorize income and expenses, integration with saweria payment method, and gain insights into business performance through interactive dashboards and charts.
 
 ### 3️⃣ Results & Recommendations (Hasil)
 View detailed business recommendations with profit potential, required capital, and step-by-step implementation guides.
 
-### 4️⃣ Dashboard
-Central hub for financial overview, daily insights, transaction history, and key performance indicators.
-
----
-
-## 🎨 Design Philosophy
-
-- **Mobile-First** - Optimized for mobile devices, responsive on all screens
-- **Clean UI** - Intuitive and clutter-free interface
-- **Dark Mode Support** - Eye-friendly theme options
-- **Accessibility** - WCAG compliant components
-- **Performance** - Lightning-fast load times
-
----
-
-## 🔐 Security
-
-- Secure authentication with encrypted passwords
-- Session management
-- Protected API routes
-- Client-side data validation
-- Type-safe operations with TypeScript
-
----
+### 4️⃣ Saweria Integration
+Connect your saweria account to our apps so you can automate income tracker for your business.
 
 ## 📊 Features in Detail
 
