@@ -29,6 +29,7 @@
 
 ### 📈 Business Management Tools
 - 💰 **Income Tracking** - Record and monitor all revenue streams
+- 💰 **Income Tracker Integration With Saweria.co** - Automate your income and order with Saweria.co
 - 📉 **Expense Management** - Categorize and analyze your spending patterns
 - 📊 **Financial Dashboard** - Real-time overview of your business metrics
 - 📅 **Daily Insights** - Actionable recommendations based on your data
